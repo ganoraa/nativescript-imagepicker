@@ -1,1 +1,1 @@
-pod 'QBImagePickerController', '~> 3.4.0'
+pod 'QBImagePickerController', :git => 'https://github.com/ganoraa/QBImagePicker.git', :branch => 'fix/localizations'
